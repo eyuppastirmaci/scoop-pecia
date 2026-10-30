@@ -1,14 +1,14 @@
 {
-    "version": "0.1.0-rc.1",
+    "version": "0.1.0",
     "description": "Offline lexical and semantic search for documents and source code",
     "homepage": "https://github.com/eyuppastirmaci/pecia",
     "license": "MIT",
     "notes": "Pecia bundles its own Java runtime. Run 'pecia --help' to get started.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/eyuppastirmaci/pecia/releases/download/v0.1.0-rc.1/pecia-0.1.0-rc.1-win-x64.zip",
-            "hash": "46cf57c0a96fa44c51b7e4135a6dccf211764c273bf8ca21e25c1d8512691d94",
-            "extract_dir": "pecia-0.1.0-rc.1-win-x64"
+            "url": "https://github.com/eyuppastirmaci/pecia/releases/download/v0.1.0/pecia-0.1.0-win-x64.zip",
+            "hash": "fbd62bb61752cd43fadd46a4dae4d9222d955a4ccc897b0987dee74ae3aa21ee",
+            "extract_dir": "pecia-0.1.0-win-x64"
         }
     },
     "bin": "pecia.exe",
